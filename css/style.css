@@ -1,0 +1,78 @@
+/* Styles for the Stellar Travels Service */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.topHeader {
+    background-color: #657068;
+    background: url(../img/stargazing.jpg);
+    padding: 50px;
+
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    text-transform: uppercase;
+    font-size: 120px;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    padding: 20px;
+    letter-spacing: 5px;
+}
+
+#yellow {
+    color: rgb(231, 205, 54);
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 60%;
+    padding: 30px;
+}
+
+.navMenu {
+    list-style: none;
+    padding: 30px;
+    text-transform: uppercase;
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+.navMenu li {
+    display: inline-block;
+}
+
+.navMenu a {
+    text-decoration: none; 
+    padding: 10px;
+    color: #DBD09E;
+}
+
+.mainSection {
+    padding: 60px;
+}
+
+#blurb {
+    width: 60%;
+    margin: auto;
+}
+
+footer p {
+    margin-top: 20px;
+    padding: 40px;
+    background-color: rgb(231, 196, 79);
+}
